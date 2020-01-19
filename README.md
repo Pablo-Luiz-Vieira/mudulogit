@@ -1,4 +1,2 @@
-Este é meu primeiro projeto com GIT
+Este é meu primeiro projeto com GIT (Alterado e Atualizado!)
 
-alterar oque quiser
-Alteraçao feita no MASTER
